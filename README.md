@@ -9,9 +9,10 @@ A list of books to help you from a JavaScript journeywoman to master.
 
 ## Essential Books
 
-| Name                               |   Author                  |    Edition   |    Availability           |
-| -----------------------------------|---------------------------| -------------|--------------------|
-| Eloquent JavaScript                | Martin Heverbeek          |     2nd      |      :free:        |   
-| JavaScript, the Definitive Guide   | David Flannigan           |     6th      |      :moneybag:    |
-| JavaScript, The Good Parts         | Douglas Crockford         |     1st      |      :moneybag     | 
-| JavaScript for Web Developers      | Nicholas C. Zakas         |     3rd      |      :moneybag:    |
+| Name                               |   Author                  | Description|   Edition   | Availability |
+| -----------------------------------|---------------------------|--------------|-----|--------------------|
+| Eloquent JavaScript                | Martin Heverbeek          |  Fundamentals    |   2nd  |      :free:        |   
+| JavaScript, the Definitive Guide   | David Flannigan           |  Intermediate, Reference| 6th |  :moneybag:    |
+| JavaScript, The Good Parts         | Douglas Crockford         |  Basics       | 1st |      :moneybag:    | 
+| JavaScript for Web Developers      | Nicholas C. Zakas         |  Intermediate    | 3rd |      :moneybag:    |
+| JavaScript Patterns                | Stoyan Stefanov         |  Implementation    | 3rd |      :moneybag:    |
