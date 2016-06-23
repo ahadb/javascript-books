@@ -10,7 +10,7 @@ A list of books to help you from a JavaScript journeywoman to master.
 ## Essential Books
 
 | Name                     |   Author                  |              Edition   |
-| -----------------------------------|:-------------------------:| ------------:|
+| -----------------------------------|---------------------------| -------------|
 | Eloquent JavaScript                | Martin Heverbeek          |     2nd      |
 | JavaScript, the Definitive Guide   | David Flannigan           |     6th      |
 | JavaScript, The Good Parts         | Douglas Crockford         |     1st      |
