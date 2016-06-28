@@ -16,3 +16,7 @@ A list of books to help you from a JavaScript journeywoman to master.
 | JavaScript, The Good Parts         | Douglas Crockford         |  Basics       | 1st |      :moneybag:    | 
 | JavaScript for Web Developers      | Nicholas C. Zakas         |  Intermediate    | 3rd |      :moneybag:    |
 | JavaScript Patterns                | Stoyan Stefanov         |  Implementation    | 3rd |      :moneybag:    |
+| You Don't Know JS                  | Kyle Simpson           |   Basic to Advanced | 1st |      :free:, :moneybag:    |
+| Effective JavaScript               | David Herman           |  Intermediate to Advance    | 1st |      :moneybag:    |
+| JavaScript Allonge Six Edition     | Reg Braithwaite        |  Intermediate, ES6   | 2nd |      :moneybag:    |
+| Exploring ES6                      | Axel Rauschmayer       |  Intermediate, ES6   | 1st |      :free:, :moneybag:    |
