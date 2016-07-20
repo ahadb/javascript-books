@@ -1,6 +1,6 @@
 # JavaScript Books
 
-A list of books to help you from a JavaScript journeywoman to master.
+A list of hand picked books to help you become a JavaScript master
 
 ## Contents
 
